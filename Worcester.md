@@ -14,7 +14,13 @@ Clearly, this is a vital tool that must be chosen wisely by those responsible fo
 
 Here's a typical anaesthetic machine.
 
-![image001.png](image001.png =600x)
+<div style="width: 200px">
+
+![image001.png](image001.png)
+
+</div>
+
+![image001.png](image001.png)
 
 In use this machine is festooned with cables and tubes leading to the patient and other devices in use in the operating theatre.
 
