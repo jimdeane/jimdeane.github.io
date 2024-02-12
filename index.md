@@ -3,4 +3,4 @@
 
 [some page](Pilots.md))
 
-[someotheropage](pilots/Worcester-Anaesthetic-Machine-replacement-survey-Pilot.md)
+[someotheropage](Worcester-Anaesthetic-Machine-replacement-survey-Pilot.md)
